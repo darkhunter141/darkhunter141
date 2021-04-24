@@ -1,10 +1,9 @@
 <div align = "center">
-  <center><a href="#">
+  <a href="https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg">
     <img width="200" heigth="200" src="https://github.com/darkhunter141/Dark-Hunter-141/blob/main/FB_IMG_1617543943494.jpg?raw=true">
 <br>
-<h3><b>We don't work for money</b></h3>
-<h3><b>We work to see people's smile😇</b></h3>
-<li>We work to see people's smile</li></center>
+<b>We don't work for money</b>
+<b>We work to see people's smile😇</b>
 <br>
 </div>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
