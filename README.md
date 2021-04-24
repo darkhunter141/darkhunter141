@@ -7,6 +7,6 @@
 </center>
 <p>💁About Devolopers : </p>
 <p> </p>
-<p>Tanvir Mahamud Shariful</p>
-<p> </p>
-<p>Ashrafi Abir</p>
+
+Tanvir Mahamud Shariful
+Ashrafi Abir
