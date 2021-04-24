@@ -5,8 +5,12 @@
 <p>We don't work for money </p>
 <p>We work to see people's smile</p>
 </center>
-<p>💁About Devolopers : </p>
-<p> </p>
+<b>
 
-Tanvir Mahamud Shariful<br>
-Ashrafi Abir
+<h3><b><i>🤠 About Devolopers :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 🙂 <i>Ashrafi Abir</i></li>
+<li> 🙂 <i>Tanvir Mahamud Shariful</i></li>
+
+
