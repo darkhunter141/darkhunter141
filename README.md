@@ -5,7 +5,7 @@
 <p>We work to see people's smile</p></center>
 <br>
 </div>
-<h3><b><i>🤠 About Devolopers :</i></b></h3>
+<h3><b><i>🤠 Devolopers :</i></b></h3>
 <li>  <i>Ashrafi Abir</i></li>
 <li>  <i>Tanvir Mahamud Shariful</i></li>
 
