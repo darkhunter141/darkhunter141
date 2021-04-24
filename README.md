@@ -6,7 +6,7 @@
 <br>
 </div>
 <h3><b><i>🤠 Devolopers :</i></b></h3>
-<li>  <i>Ashrafi Abir</i></li>
-<li>  <i>Tanvir Mahamud Shariful</i></li>
+<li>  <i><a herf="">Ashrafi Abir (DarkXploit)</a></i></li>
+<li>  <i><a herf="">Tanvir Mahamud Shariful</a></i></li>
 
 
