@@ -2,8 +2,8 @@
   <center><a href="#">
     <img width="200" heigth="200" src="https://github.com/darkhunter141/Dark-Hunter-141/blob/main/FB_IMG_1617543943494.jpg?raw=true">
 <br>
-<p>We don't work for money </p>
-<p>We work to see people's smile</p></center>
+<li>We don't work for money </li>
+<li>We work to see people's smile</li></center>
 <br>
 </div>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
