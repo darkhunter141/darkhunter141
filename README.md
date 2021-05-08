@@ -4,6 +4,7 @@
 <br>
 <b>We don't work for money</b><br>
 <b>We work to see people's smile😇</b>
+<b>Fight For Islam And Humanity</b>
 <br>
 </div>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
