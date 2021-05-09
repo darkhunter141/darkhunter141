@@ -13,7 +13,7 @@
 
 ## KNOW MORE ABOUT US>>>>
 ![](https://komarev.com/ghpvc/?username=darkhunter141)
-
+![Visitor Count](https://profile-counter.glitch.me/darkhunter141/count.svg)
 
 <h3><b><i>🖥️ Contact Info </i></b></h3>
 <li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>
