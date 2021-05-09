@@ -6,9 +6,9 @@
 
 
 ## Our Aim : 
-<li><i>We don't work for money🙂</li></i>
-<li><i>We work to see people's smile😀</li></i>
-<li><i>Fight For Islam And Humanity😇</li></i>
+<li><i>We don't work for money 🙂</li></i>
+<li><i>We work to see people's smile 😀</li></i>
+<li><i>Fight For Islam And Humanity 😇</li></i>
 <br>
 
 ## KNOW MORE ABOUT US>>>>
