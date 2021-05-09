@@ -6,6 +6,9 @@
 <b>We work to see people's smile😇</b><br>
 <b>Fight For Islam And Humanity</b>
 <br>
+<h3><b><i>📺 Github  </i></b></h3>
+![](https://komarev.com/ghpvc/?username=darkhunter141&color=green)
+<br>
 </div>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
 <li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>
