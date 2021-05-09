@@ -5,10 +5,7 @@
 </div>
 
 
-
-## We don't work for money<br>
-## We work to see people's smile😇<br>
-## Fight For Islam And Humanity
+##😇 Our Aim : We don't work for money.We work to see people's smile😇.Fight For Islam And Humanity
 
 
 
