@@ -7,7 +7,7 @@
 <b>Fight For Islam And Humanity</b>
 <br>
 <h3><b><i>📺 Github  </i></b></h3>
-![](https://komarev.com/ghpvc/?username=darkhunter141&color=green)
+<b>![](https://komarev.com/ghpvc/?username=darkhunter141&color=green)<b>
 <br>
 </div>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
