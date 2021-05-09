@@ -7,9 +7,11 @@
 <b>Fight For Islam And Humanity</b>
 <br>
 </div>
+
+
 ## KNOW MORE ABOUT US>>>>
-<b>![](https://komarev.com/ghpvc/?username=darkhunter141&color=green)<b>
-<br>
+
+
 <h3><b><i>🖥️ Contact Info </i></b></h3>
 <li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>
 <li>  <i><a href="https://www.facebook.com/groups/428641821766559/?ref=share">Our Facebook Community</a></i></li>
