@@ -14,7 +14,7 @@
 ## KNOW MORE ABOUT US>>>>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhunter141&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact)](https://github.com/darkhunter141)
 <br>
 ## Visitors :
 
