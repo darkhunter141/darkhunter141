@@ -40,8 +40,8 @@
 </br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dakhunter141&repo=Activate-Microsoft-Office)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Activate-Microsoft-Office)](https://github.com/darkhunter141)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dakhunter141&repo=Reverse-Engineering)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Reverse-Engineering)](https://github.com/darkhunter141)
 
 
