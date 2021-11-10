@@ -48,4 +48,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=SQLi-Scanner)](https://github.com/darkhunter141)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=URL-MASTER)](https://github.com/darkhunter141)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dh-All)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Web-Hunter)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=G-Bomber-141-2.0)](https://github.com/darkhunter141)
 </p>
