@@ -7,7 +7,7 @@
 </div>
 
 
-## Our Aim : 
+<h3><b><i>Our Aim</i></b></h3>
 <li><i>We don't work for money 🙂</li></i>
 <li><i>We work to see people's smile 😀</li></i>
 <li><i>Fight For Islam And Humanity 😇</li></i>
@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact)](https://github.com/darkhunter141)
 <br>
 
-## Visitors :
+<h3><b><i>Visitors :</i></b></h3>
 
 <br>
 
