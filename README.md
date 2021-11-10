@@ -36,8 +36,6 @@
 <li>  <i><a href="https://www.facebook.com/tanvirmahamud.shariful.3">Tanvir Mahamud Shariful (DarkWlof)</a></i></li>
 
 ## Extra Pin :
-
-</br>
 <p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141)
