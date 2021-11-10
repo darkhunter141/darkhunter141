@@ -38,10 +38,12 @@
 ## Extra Pin :
 
 </br>
+<p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface )](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Deface-Page-Generator)](https://github.com/darkhunter141)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Activate-Microsoft-Office)](https://github.com/darkhunter141)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Reverse-Engineering)](https://github.com/darkhunter141)
-
-
+</p>
