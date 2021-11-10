@@ -45,5 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Deface-Page-Generator)](https://github.com/darkhunter141)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=SQLi-Scanner)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=URL-MASTER)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dh-All)](https://github.com/darkhunter141)
 </p>
