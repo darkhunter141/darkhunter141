@@ -35,5 +35,9 @@
 <li> <i><a href="https://www.facebook.com/ashrafiabir04">Ashrafi Abir (DarkXploit)</a></i></li>
 <li>  <i><a href="https://www.facebook.com/tanvirmahamud.shariful.3">Tanvir Mahamud Shariful (DarkWlof)</a></i></li>
 
+## Extra Pin :
+
+</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dakhunter141&repo=Activate-Microsoft-Office)](https://github.com/darkhunter141)
 
 
