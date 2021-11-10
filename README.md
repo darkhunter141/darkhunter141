@@ -14,12 +14,11 @@
 <br>
 
 <h3><b><i>KNOW MORE ABOUT US>>>> </i></b></h3>
-<p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhunter141&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact)](https://github.com/darkhunter141)
 <br>
-</p>
 
 ## Visitors :
 
