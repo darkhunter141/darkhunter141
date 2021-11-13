@@ -40,16 +40,16 @@
 <h3><b><i>Useful Python Tools</i></b></h3>
 <p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface )](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Deface-Page-Generator)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=SQLi-Scanner)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=URL-MASTER)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dh-All)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Web-Hunter)](https://github.com/darkhunter141)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=G-Bomber-141-2.0)](https://github.com/darkhunter141)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141/PayPal-BruteForce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface )](https://github.com/darkhunter141/Birthday-Deface)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141/Dark-Ngrok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141/Virus-Lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Deface-Page-Generator)](https://github.com/darkhunter141/Deface-Page-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=SQLi-Scanner)](https://github.com/darkhunter141/SQLi-Scanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=URL-MASTER)](https://github.com/darkhunter141/URL-MASTER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dh-All)](https://github.com/darkhunter141/Dh-All)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Web-Hunter)](https://github.com/darkhunter141/Web-Hunter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=G-Bomber-141-2.0)](https://github.com/darkhunter141/G-Bomber-141-2.0)
 </p>
 
 <li> <i><a href="https://github.com/darkhunter141?tab=repositories">And More</a></i></li>
