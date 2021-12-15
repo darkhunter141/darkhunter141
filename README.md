@@ -1,6 +1,6 @@
 <div align = "center">
   <a href="https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg">
-    <img width="200" heigth="220" src="https://github.com/darkhunter141/darkhunter141/blob/main/dh141.png?raw=true">
+    <img width="200" heigth="220" src="http://upir.ir/images/r4pk9vnus6aq58pf0qt8.png">
     </br>
   <h1>Dark Hunter 141 </h1>
 <br>
