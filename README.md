@@ -20,6 +20,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact)](https://github.com/darkhunter141)
 <br>
 
+<br>
+<center><img src="https://metrics.lecoq.io/darkhunter141?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></center>
+<br>
+
 <h3><b><i>Visitors :</i></b></h3>
 
 <br>
