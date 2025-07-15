@@ -6,6 +6,7 @@
   <h1>Welcome to DarkHunter141's Universe 🌌</h1>
 
   <p><strong>Cyber Security | Ethical Tools | Free Knowledge</strong></p>
+  <p><a href="https://devabir.com" target="_blank">🌐 Visit our official website — DevAbir.com</a></p>
 </div>
 
 ---
@@ -22,13 +23,21 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Profile Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkhunter141&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact&theme=radical)
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/darkhunter141?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FDhaka" alt="Achievements">
+  <img src="https://github-profile-trophy.vercel.app/?username=darkhunter141&theme=onestar&margin-w=10&no-frame=true" alt="Trophies">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkhunter141&theme=react-dark" alt="Contribution Graph">
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/darkhunter141?template=classic&achievements=1&achievements.threshold=C&achievements.display=compact&config.timezone=Asia%2FDhaka" alt="Metrics">
 </p>
 
 ---
@@ -36,6 +45,7 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
 ## 📬 Contact Us
 
 - 🌐 [**Facebook Page**](https://www.facebook.com/darkhunter141/)
+- 🧠 [**devabir.com**](https://devabir.com)
 - 👥 [**Facebook Community**](https://www.facebook.com/groups/428641821766559/?ref=share)
 - 📺 [**YouTube Channel**](https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg)
 - ✍️ [**Our Blog**](https://darkhunt3r141.blogspot.com/?m=1)
@@ -46,14 +56,14 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
 
 | Name | Role | Profile |
 |------|------|---------|
-| Ashrafi Abir | Founder, Developer *(DarkXploit)* | [Facebook](https://www.facebook.com/ashrafiabir04) |
+| Ashrafi Abir | Founder, Developer *(DarkXploit)* | [Facebook](https://devabir.com) |
 | Tanvir Mahamud Shariful | Co-Developer *(DarkWlof)* | [Facebook](https://www.facebook.com/tanvirmahamud.shariful.3) |
 
 ---
 
 ## 🧰 Popular Tools
 
-Click on any to explore:
+Click any project below to explore more:
 
 [![PayPal BruteForce](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141/PayPal-BruteForce)
 [![Birthday Deface](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface)](https://github.com/darkhunter141/Birthday-Deface)
@@ -66,14 +76,10 @@ Click on any to explore:
 [![Web Hunter](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Web-Hunter)](https://github.com/darkhunter141/Web-Hunter)
 [![G-Bomber](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=G-Bomber-141-2.0)](https://github.com/darkhunter141/G-Bomber-141-2.0)
 
-👉 [**View all repositories →**](https://github.com/darkhunter141?tab=repositories)
+👉 [**Explore All Repositories →**](https://github.com/darkhunter141?tab=repositories)
 
 ---
 
-## 📈 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/darkhunter141/count.svg)
 
----
-
-> **Maintained by [Ashrafi Khandaker Abir](https://www.facebook.com/ashrafiabir04) | Powered by 💻 Community & Code**
+> **Maintained by [Ashrafi Khandaker Abir](https://devabir.com) · Powered by 💻 Community & Code · Visit us: [devabir.com](https://devabir.com)**
