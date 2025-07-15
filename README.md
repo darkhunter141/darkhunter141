@@ -1,59 +1,79 @@
-<div align = "center">
-  <a href="https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg">
-    <img width="200" heigth="220" src="http://upir.ir/images/r4pk9vnus6aq58pf0qt8.png">
-    </br>
-  <h1>Dark Hunter 141 </h1>
-<br>
+<div align="center">
+  <a href="https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg" target="_blank">
+    <img src="http://upir.ir/images/r4pk9vnus6aq58pf0qt8.png" width="200" alt="DarkHunter141 Logo" />
+  </a>
+
+  <h1>Welcome to DarkHunter141's Universe 🌌</h1>
+
+  <p><strong>Cyber Security | Ethical Tools | Free Knowledge</strong></p>
 </div>
 
+---
 
-<h3><b><i>Our Aim</i></b></h3>
-<li><i>We don't work for money 🙂</li></i>
-<li><i>We work to see people's smile 😀</li></i>
-<li><i>Fight For Islam And Humanity 😇</li></i>
-<br>
+## ✨ About Us
 
-<h3><b><i>KNOW MORE ABOUT US>>>> </i></b></h3>
+We are a team of passionate developers and cyber enthusiasts committed to building and sharing powerful tools — **not for profit, but for purpose**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhunter141&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact)](https://github.com/darkhunter141)
-<br>
+- 🔐 Fighting for *justice, truth, and knowledge*.
+- 💻 Developing tools that make an impact.
+- ☪️ Standing strong for *Islam* and *humanity*.
 
-<br>
-<center><img src="https://metrics.lecoq.io/darkhunter141?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></center>
-<br>
+> *We don’t work for money — we work to see people smile.*
 
-<h3><b><i>Visitors :</i></b></h3>
+---
 
-<br>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkhunter141&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhunter141&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/darkhunter141?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FDhaka" alt="Achievements">
+</p>
+
+---
+
+## 📬 Contact Us
+
+- 🌐 [**Facebook Page**](https://www.facebook.com/darkhunter141/)
+- 👥 [**Facebook Community**](https://www.facebook.com/groups/428641821766559/?ref=share)
+- 📺 [**YouTube Channel**](https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg)
+- ✍️ [**Our Blog**](https://darkhunt3r141.blogspot.com/?m=1)
+
+---
+
+## 👨‍💻 Core Team
+
+| Name | Role | Profile |
+|------|------|---------|
+| Ashrafi Abir | Founder, Developer *(DarkXploit)* | [Facebook](https://www.facebook.com/ashrafiabir04) |
+| Tanvir Mahamud Shariful | Co-Developer *(DarkWlof)* | [Facebook](https://www.facebook.com/tanvirmahamud.shariful.3) |
+
+---
+
+## 🧰 Popular Tools
+
+Click on any to explore:
+
+[![PayPal BruteForce](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141/PayPal-BruteForce)
+[![Birthday Deface](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface)](https://github.com/darkhunter141/Birthday-Deface)
+[![Dark Ngrok](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141/Dark-Ngrok)
+[![Virus Lab](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141/Virus-Lab)
+[![Deface Generator](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Deface-Page-Generator)](https://github.com/darkhunter141/Deface-Page-Generator)
+[![SQLi Scanner](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=SQLi-Scanner)](https://github.com/darkhunter141/SQLi-Scanner)
+[![URL MASTER](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=URL-MASTER)](https://github.com/darkhunter141/URL-MASTER)
+[![Dh-All](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dh-All)](https://github.com/darkhunter141/Dh-All)
+[![Web Hunter](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Web-Hunter)](https://github.com/darkhunter141/Web-Hunter)
+[![G-Bomber](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=G-Bomber-141-2.0)](https://github.com/darkhunter141/G-Bomber-141-2.0)
+
+👉 [**View all repositories →**](https://github.com/darkhunter141?tab=repositories)
+
+---
+
+## 📈 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/darkhunter141/count.svg)
 
-<h3><b><i>🖥️ Contact Info </i></b></h3>
-<li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>
-<li>  <i><a href="https://www.facebook.com/groups/428641821766559/?ref=share">Our Facebook Community</a></i></li>
-<li>  <i><a href="https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg">Our Youtube Channel</a></i></li>
-<li>  <i><a href="https://darkhunt3r141.blogspot.com/?m=1">Our Blogsite</a></i></li>
+---
 
-<br>
-<h3><b><i>🤠 Devolopers :</i></b></h3>
-<li> <i><a href="https://www.facebook.com/ashrafiabir04">Ashrafi Abir (DarkXploit)</a></i></li>
-<li>  <i><a href="https://www.facebook.com/tanvirmahamud.shariful.3">Tanvir Mahamud Shariful (DarkWlof)</a></i></li>
-
-<h3><b><i>Useful Python Tools</i></b></h3>
-<p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141/PayPal-BruteForce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface )](https://github.com/darkhunter141/Birthday-Deface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141/Dark-Ngrok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141/Virus-Lab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Deface-Page-Generator)](https://github.com/darkhunter141/Deface-Page-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=SQLi-Scanner)](https://github.com/darkhunter141/SQLi-Scanner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=URL-MASTER)](https://github.com/darkhunter141/URL-MASTER)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dh-All)](https://github.com/darkhunter141/Dh-All)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Web-Hunter)](https://github.com/darkhunter141/Web-Hunter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=G-Bomber-141-2.0)](https://github.com/darkhunter141/G-Bomber-141-2.0)
-</p>
-
-<li> <i><a href="https://github.com/darkhunter141?tab=repositories">And More</a></i></li>
+> **Maintained by [Ashrafi Khandaker Abir](https://www.facebook.com/ashrafiabir04) | Powered by 💻 Community & Code**
