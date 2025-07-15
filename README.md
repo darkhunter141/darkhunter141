@@ -4,7 +4,6 @@
   </a>
 
   <h1>Welcome to DarkHunter141's Universe 🌌</h1>
-
   <p><strong>Cyber Security | Ethical Tools | Free Knowledge</strong></p>
 </div>
 
@@ -16,8 +15,6 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
 
 - 🔐 Fighting for *justice, truth, and knowledge*.
 - 💻 Developing tools that make an impact.
-- ☪️ Standing strong for *Islam* and *humanity*.
-
 > *We don’t work for money — we work to see people smile.*
 
 ---
