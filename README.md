@@ -6,7 +6,6 @@
   <h1>Welcome to DarkHunter141's Universe 🌌</h1>
 
   <p><strong>Cyber Security | Ethical Tools | Free Knowledge</strong></p>
-  <p><a href="https://devabir.com" target="_blank">🌐 Visit our official website — DevAbir.com</a></p>
 </div>
 
 ---
