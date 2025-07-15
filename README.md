@@ -53,7 +53,7 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
 
 | Name | Role | Profile |
 |------|------|---------|
-| Ashrafi Abir | Founder, Developer *(DarkXploit)* | [Facebook](https://devabir.com) |
+| Ashrafi Khandaker Abir | Founder, Developer *(DarkXploit)* | [WEBSITE](https://devabir.com) |
 | Tanvir Mahamud Shariful | Co-Developer *(DarkWlof)* | [Facebook](https://www.facebook.com/tanvirmahamud.shariful.3) |
 
 ---
