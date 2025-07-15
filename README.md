@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youtube.com/channel/UCkSB55ezk_2vPVwoqmPVZwg" target="_blank">
-    <img src="http://upir.ir/images/r4pk9vnus6aq58pf0qt8.png" width="200" alt="DarkHunter141 Logo" />
+    <img src="dh141.png" width="200" alt="DarkHunter141 Logo" />
   </a>
 
   <h1>Welcome to DarkHunter141's Universe 🌌</h1>
