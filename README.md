@@ -35,9 +35,7 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkhunter141&theme=react-dark" alt="Contribution Graph">
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/darkhunter141?template=classic&achievements=1&achievements.threshold=C&achievements.display=compact&config.timezone=Asia%2FDhaka" alt="Metrics">
-</p>
+
 
 ---
 
