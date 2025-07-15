@@ -62,7 +62,7 @@ We are a team of passionate developers and cyber enthusiasts committed to buildi
 
 Click any project below to explore more:
 
-[![PayPal BruteForce](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=PayPal-BruteForce)](https://github.com/darkhunter141/PayPal-BruteForce)
+
 [![Birthday Deface](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Birthday-Deface)](https://github.com/darkhunter141/Birthday-Deface)
 [![Dark Ngrok](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Dark-Ngrok)](https://github.com/darkhunter141/Dark-Ngrok)
 [![Virus Lab](https://github-readme-stats.vercel.app/api/pin/?username=darkhunter141&repo=Virus-Lab)](https://github.com/darkhunter141/Virus-Lab)
